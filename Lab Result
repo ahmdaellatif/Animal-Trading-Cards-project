@@ -1,0 +1,17 @@
+Great job!
+You have successfully completed the Lab! Please proceed to review your work in order to mark this Lab as complete.
+REVIEW
+The trading card page loads the page as expected and the page has the necessary HTML elements to work with the following tests
+The trading card page has a new heading
+The trading card page has a new image
+The trading card page has a new 'interesting fact' paragraph
+The trading card page has a list of new facts
+The trading card page has at least one informational paragraph about the animal
+The trading card page with styling is linked to the stylesheet
+The trading card page with styling has an info section below the image with class 'animal-info'
+The trading card page with styling has an 'interesting fact' paragraph italicized
+The trading card page with styling has a 'list of facts' labels that are bold
+The trading card page with styling does not have a dot beside the list of facts
+The trading card page with styling has a border around the entire card
+The trading card page with styling has a border around the animal's info section
+The trading card page with styling has spacing between the border and card elements
